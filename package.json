@@ -1,0 +1,16 @@
+{
+  "name": "tickticktack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordi Enguídanos <jordifreek@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "neo-async": "^1.8.1",
+    "ps-node": "0.0.5",
+    "socket.io-client": "^1.4.5"
+  }
+}
